@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Ejer1 = ({tituloExtra}) => {
+const Ejer2 = ({tituloExtra}) => {
     return (
         <div>
             <h1 className='text-center mt-5'>Hello {tituloExtra}</h1>
@@ -8,4 +8,4 @@ const Ejer1 = ({tituloExtra}) => {
     );
 };
 
-export default Ejer1;
+export default Ejer2;
